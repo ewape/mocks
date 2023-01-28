@@ -1,0 +1,31 @@
+Date/Time,Symbol,Amount,CurrencyPrimary,FXRateToBase,Multiplier,Description,ISIN,ActionID
+6/7/2022,NNC,3.66,NIO,4.1,2,"Supplement Aortic Valve with Nonaut Sub, Perc Approach",a4fdd95e-0205-4cc1-9cd1-58e25458f6af,c2682d9c-03c9-42fd-bc0e-f2e154eba186
+7/18/2022,PUB,2.64,PLN,3.28,2,"Bypass Left Fallopian Tube to Uterus, Perc Endo Approach",0014f07c-9f81-41b7-bc84-ec4a496a3c22,eab15c07-afd0-4a7c-8da6-a31cf432f67a
+2/21/2022,KRC^H,-4.45,CNY,4.48,2,"CT Scan of R Kidney using H Osm Contrast, Unenh, Enhance",c76ec32e-1cb0-435d-94e8-1f112ae9a5bc,cb515a23-f4ea-4ce9-a7cd-c1ca703aee4d
+11/30/2022,KLAC,8.13,CNY,3.52,2,"Bypass Spinal Canal to Pleural Cav w Autol Sub, Open",97294b44-079d-45cf-8207-5026b5aa184b,3972a6cf-385a-4be6-86e4-ae932d8087c9
+4/30/2022,ALT,-14.42,EUR,4.63,2,"Insertion of Feeding Device into Duodenum, Via Opening",a2db0c98-92dd-43f4-ad37-43cd6c327006,92969e10-e7b8-48ff-a4b5-f0a314240060
+5/18/2022,PEI^B,0.09,IDR,3.41,2,"Measurement of MS Contractility, Extern Approach",7b42329a-5290-414e-81c1-84b62963a857,e3e3073e-0356-4fb8-ae6e-f00354d60947
+5/11/2022,SBCP,6.45,CNY,4.15,2,HDR Brachytherapy of Spinal Cord using Iridium 192,b0a35da6-f2e6-4866-afb7-9ed73b57ee7c,1b36f01c-15ae-4827-91af-6dd044e09da3
+7/17/2022,BMLA,14.92,SEK,4.63,2,"Repair Left Lower Leg, Percutaneous Approach",e379eeac-c0fb-4e55-952e-0830edaeb852,a98749ed-d67f-48a9-8bb4-9d3862d7186c
+4/25/2022,CSL,9.94,HNL,4.9,1,MRI of L Shoulder using Oth Contrast,db553088-2b48-4c11-8c6e-773915a37adb,0a2baa36-8b9b-4b7e-acb0-4181f0c795dd
+5/20/2022,HUBB,6.37,CNY,3.8,2,"Destruction of Left Seminal Vesicle, Perc Endo Approach",2b743d1d-7615-4dfe-91e0-3e68a6a357ec,e961b14b-e44a-4bae-9a30-69c51fcde0a0
+2/27/2022,PAR,5.55,EUR,4.47,2,"Insertion of Other Device into POC, Via Opening",d7b3001d-414f-4bb7-b27c-3ad89c1ea8ff,1cbf97a5-9ecc-4436-b67f-ca596c0cae32
+12/20/2022,WLKP,-1.86,CNY,4.13,1,Exercise Trmt Resp Body w Electrotherap Equip,71983c6b-fc37-4a79-80de-aa1bb8224e88,259a2ec1-2423-4932-a792-73cd7473adb4
+10/18/2022,DNOW,-0.52,IDR,3.1,2,"Dilate of Portal Vein with Intralum Dev, Perc Endo Approach",4cff1885-6912-4ea3-8548-09048df52fcc,efc219b2-61f6-454c-a91e-b498fce9b42b
+11/28/2022,AMWD,9.97,EUR,3.9,1,"Inspection of Right Axilla, Percutaneous Approach",80e5c109-db7d-4f97-acca-b55ea29d294b,587163a6-687a-4ed6-8cda-a84973f5e2c4
+9/29/2022,OTIV,-3.18,CZK,3.4,2,"Measurement of POC, Cardiac Rate, Extern Approach",01fdd469-f263-439d-b3ec-4e4569b2d2d2,3e82372c-7c2f-48c6-ad83-599f2c31f390
+8/4/2022,VVC,3.33,EUR,3.94,1,"Extirpation of Matter from Atrial Septum, Perc Approach",7290ab05-9741-4e23-9a80-aa01e0db3145,c65db293-9636-427c-8d09-58f3813f55bb
+4/30/2022,SHLDW,13.48,EUR,3.98,2,"Supplement Sternum with Nonaut Sub, Perc Approach",4698d27f-b1a0-40f8-b20c-c5568cbfa39b,09052e35-f3f8-40fd-a3bd-77f3ae42b6d4
+8/5/2022,BBF,11.12,CNY,3.15,2,Intraoperative Radiation Therapy (IORT) of Anus,304402e1-c11d-4918-8995-5d00937fca6f,7ca16f7d-bdc9-44fe-83bd-bf2bd0af44c9
+9/1/2022,FIBK,-6.14,VND,3.72,2,"Revision of Other Device in Neck, Percutaneous Approach",7019b883-aabd-485e-8b38-624bf84ebcab,f1822801-689b-41f3-ac4e-b367d5404eda
+1/7/2022,DRE,6.11,KES,4.57,2,"Extirpate matter from Head Neck Symp Nrv, Perc Endo",d793a964-1fa1-40ea-8873-0bbb60260908,be7234e4-edb7-49ef-99ae-5a535a231db5
+7/2/2022,ICCH,9.27,CAD,4.11,2,"Repair Nervous System in POC with Oth Dev, Open Approach",07905048-e20c-409a-9250-4228f5007a15,5d5088de-9814-497d-a365-c7c82b8c7c74
+6/25/2022,UEIC,-12.09,CAD,4.53,1,"Drainage of Great Omentum with Drain Dev, Perc Endo Approach",c7a87a3e-7ea8-46d6-964d-68e9e51cfa73,d9a9018a-2f3d-4150-bec5-b3050bed36ad
+4/1/2022,CNK,5.4,CAD,4.41,1,"Replacement of L Basilic Vein with Autol Sub, Open Approach",559a745e-cb87-4579-825c-697104d38d2a,079c64dd-902b-43cd-84d8-5b4eb5f1462e
+7/31/2022,MSFG,5.11,CNY,4.65,2,"Insertion of Int Fix into L Tarsal Jt, Open Approach",8b5c441b-279e-4c55-910b-d3d2d89602c9,fd88ef39-6bf7-49fc-baf0-eb02fb6d1dda
+6/3/2022,NFEC,13.21,RUB,4.11,2,"Bypass 4+ Cor Art from Cor Art, Open Approach",524efa11-6244-473a-9be5-f6acc347a3b4,c77872f0-f8fc-44ed-84f7-6214034ba9c7
+6/11/2022,ADS,1.38,IDR,3.9,1,"Repair Left Ankle Bursa and Ligament, Percutaneous Approach",5a53e261-9685-4d42-a07d-63a1ad91403b,25c30f28-3474-4840-b9ac-63eac593420c
+10/7/2022,HWBK,5.63,CNY,3.74,1,"Revision of Autol Sub in R Extraoc Muscle, Perc Approach",74f6e660-8c29-4347-b566-1b062c436de2,6ea3abf3-fa1e-4d53-ae3b-421371d62ef3
+5/18/2022,PHO,2.95,PEN,3.68,1,"Excision of Ampulla of Vater, Endo, Diagn",0ebdc8a5-910c-4e10-86e3-63967172b7d8,1dbac876-8aeb-4713-9812-4cf2633a918f
+1/23/2022,SOCL,5.47,EUR,3.74,2,Dichotic Stimuli Assessment using Audiovisual Equipment,531393bf-7f37-4286-a1d4-ab6ab3411d1b,2c4a51cf-27ad-45a1-802b-93019ce17f0d
+5/4/2022,CETXP,12.7,IDR,4.43,1,"Release Right Shoulder Joint, Open Approach",4c58c8f9-d7d4-41b2-b1cd-df8a99434576,19b1cc02-0b34-426b-9abb-d80e5e208442
